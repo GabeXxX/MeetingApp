@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239368595989",
+    "firebase_url": "https://secret-essential.firebaseio.com",
+    "project_id": "secret-essential",
+    "storage_bucket": "secret-essential.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239368595989:android:cd1450cf44928340d9bc1c",
+        "android_client_info": {
+          "package_name": "com.gabber.secret_essential"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239368595989-6dhmelfdj7vn1k5119lou3bivb3jp4k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gabber.secret_essential",
+            "certificate_hash": "d031ef1d571850c650771c31a0c525e76cedc385"
+          }
+        },
+        {
+          "client_id": "239368595989-ava395hhcqgcb1goheue2n2vbp8kh41b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiqOkUZ4MfN9cJz9NiMYD83jNfEM_B-uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239368595989-ava395hhcqgcb1goheue2n2vbp8kh41b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
